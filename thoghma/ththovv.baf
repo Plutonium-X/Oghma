@@ -1,0 +1,14 @@
+IF
+  True()
+THEN
+    RESPONSE #100
+             CutSceneId(Player1)
+             Wait(1)
+             ActionOverride("ThThot", ForceSpell(Player1,DO_SOME_EFFECTS)
+             Wait(2)
+	     ApplySpell(Player1,LONG_VISUAL2)
+	     Wait(2)
+	     ApplySpell(Player1,0)
+	     AddSpecialAbility("thin633")
+             EndCutSceneMode()
+END

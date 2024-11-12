@@ -1,0 +1,49 @@
+@0    = ~Bonjour, jeune compagnie. Que venez-vous chercher en ces lieux, dans le temple du maître des savoirs ?~
+@1    = ~Bonjour, vénérable moine. Quel est votre rôle en ces lieux ?~
+@2    = ~Désolé, je suis très occupé et je n'ai pas de temps à perdre auprès de vieillards sans intérêt.~ ~Désolée, je suis très occupée et je n'ai pas de temps à perdre auprès de vieillards sans intérêt.~
+@3    = ~J'ai vu où vous posiez vos yeux, espèce de vieux pervers. Cessez cela immédiatement !~
+@4    = ~Excusez-moi, je ne voulais pas vous déranger dans vos recherches qui semblent passionnantes.~
+@5    = ~Ah, vous revoilà, jeune personne. Que désirez-vous ?~
+@6    = ~Encore merci de m'avoir apporté tous ces ouvrages. Je m'en souviendrai !~
+@7    = ~Ah, vous revoilà, jeune personne. Avez-vous trouvé des ouvrages intéressants ?~
+@8    = ~Ces recettes de cuisine orque vous intéresseraient-elles ?~
+@9    = ~A la recherche des livres perdus
+
+J'ai apporté à Thot le livre de cuisine que j'avais trouvé chez les orques de Lancevent. Il a eu l'air très heureux, même si son histoire d'elfe farci me laisse dubitatif.~ ~A la recherche des livres perdus
+
+J'ai apporté à Thot le livre de cuisine que j'avais trouvé chez les orques de Lancevent. Il a eu l'air très heureux, même si son histoire d'elfe farci me laisse dubitative.~
+@10   = ~Ce tome antique pourrait-il vous plaire ?~
+@11   = ~A la recherche des livres perdus
+
+J'ai amené à Thot le livre de Kaza, et il a eu l'air très satisfait de mettre la main sur cet ouvrage. ~
+@12   = ~Ces notes parlant d'une race peu connue seraient-elles susceptibles d'éveiller votre curiosité ?~
+@13   = ~A la recherche des livres perdus
+
+J'ai donné à Thot les notes sur les Sahuagins, et cela a semblé le combler d'aise. Je continue à penser qu'il ne faut pas être très net pour s'intéresser à ces créatures.~
+@14   = ~Je l'ignore. Ai-je déjà en ma possession un ouvrage qui corresponde à vos désirs ?~
+@15   = ~Fichez-moi la paix !~
+@16   = ~Je suis le vénérable Thot, humble prêtre d'Oghma. Je collectionne de nombreux ouvrages de par le monde.~
+@17   = ~Vraiment ? Quel type d'ouvrages ?~
+@18   = ~Ah. Oui. Cela doit être vraiment très intéressant. Je vais vous laisser, de nombreuses tâches m'attendent.~
+@19   = ~Vous ne vous rendez pas compte de ce que vous perdez ! La jeunesse actuelle est décidément bien décadente.~
+@20   = ~Oh ! Vous êtes presque aussi chatouilleuse que Dame Sangdelune. Mais bon, si vous y tenez...~
+@21   = ~Vous êtes pardonné. Quel est donc votre rôle en ces lieux ?~
+@22   = ~Vous êtes pardonné. Je dois vous laisser, des tâches de grande importance m'attendent.~
+@23   = ~J'en ai assez de toute façon de tous ces vieillards sans intérêt.~
+@24   = ~En fait, je me spécialise dans la recherche de manuscrits parmi les plus exotiques : habitudes culinaires de races peu communicatives, ouvrages maudits, récits décrivant des créatures peu connues... Ce genre de chose. Voyez-vous, je peux récompenser, avec mes modestes pouvoirs, ceux qui peuvent m'apporter de tels ouvrages.~
+@25   = ~Pourquoi pas. Ai-je déjà en ma possession un ouvrage qui corresponde à vos désirs ?~
+@26   = ~Aller chercher des vieux manuscrits pour gagner quelques misérables pouvoirs ? Non-merci, je laisse ça aux rats de bibliothèques. Trouvez donc d'autres pigeons pour faire votre travail.~
+@27   = ~Mon dieu ! Toutes les recettes les plus recherchées des orques de Lancevent. Il y a même... oui, l'elfe farci, la mythique recette perdue depuis des siècles dont des générations entières de sages ont essayé de percer le secret. Oh, merci mon ami !~ ~Mon dieu ! Toutes les recettes les plus recherchées des orques de Lancevent. Il y a même... oui, l'elfe farci, la mythique recette perdue depuis des siècles dont des générations entières de sages ont essayé de percer le secret. Oh, merci mon amie !~
+@28   = ~Incroyable ! J'ignore où vous avez pu trouver un ouvrage aussi remarquable, mais sachez que je vous en serais très longtemps reconnaissant. C'est une vrai petite merveille. Cette reliure, ces runes...~
+@29   = ~Des écrits sur les Sahuagins ? Les fameux êtres-requins habitant le fond des mers ! J'en étais venu à croire qu'il ne s'agissait que de légendes ! Tout cela est passionnant.~
+@30   = ~Non, il semble qu'il n'y ait rien là-dedans qui corresponde à ce que je recherche. Mais si jamais vous rencontrez, au cours de vos périples, un texte intéressant, n'hésitez pas à me l'apporter.~
+@31   = ~Ce sera avec plaisir.~
+@32   = ~Laissez-moi vous récompenser comme vous le méritez.~
+@33   = ~J'ai apporté à Thot suffisamment d'ouvrages pour qu'il me gratifie de la bénédiction d'Oghma. Ca en valait tout de même un peu la peine.~
+@34   = ~Pour vous remercier de cet apport à ma collection, je vous offre ces lunettes, qui vous permettront de mieux appréhender la nature des objets que vous pourrez trouver au cours de vos voyages.~
+@35   = ~Pour vous remercier de vos apports à ma collection, je vous offre la bénédiction d'Oghma, qui élèvera votre esprit.~
+@36   = ~Je ne pourrais jamais vous remercier suffisamment de tout ce que vous m'avez apporté. Laissez-moi vous bénir et vous apporter le don d'Oghma, qui vous permettra de voir à travers toutes les illusions. Puissiez-vous toujours vous en servir contre ceux qui veulent masquer la vérité.~
+@37   = ~De l'elfe farci. Oh, quelle horreur ! Je préfère ne pas y penser.~
+@38   = ~Tu veux donner à ce vieux fou le bouquin pour lequel j'ai versé tant de sang avec ma hache ? Tu raisonnes vraiment comme un dégénéré.~ ~Tu veux donner à ce vieux fou le bouquin pour lequel j'ai versé tant de sang avec ma hache ? Tu raisonnes vraiment comme une dégénérée.~
+@39   = ~Hum, ça me rappelle une histoire. C'était Humpfle, un apprenti de mon oncle Golodon, qui était persuadé qu'il existait une race de navets sous-marins et conscients. Evidemment, Humphy n'avait jamais appris à nager, donc sa première tentative pour retrouver les êtres en questions s'est très mal terminé.~
+@40   = ~Pauvre Humphy. Quand on a retrouvé son corps, il était sous l'eau et avait le teint verdâtre et la texture d'un navet. Après tout, il n'avait peut-être pas tout à fait tort.~

@@ -1,0 +1,47 @@
+@0 = ~Guten Tag, junge Gesellschaft. Was sucht Ihr an diesem Ort, im Tempel des Meisters der Kenntnisse?~
+@1 = ~Guten Tag, ehrwürdiger Mönch. Was ist Eure Rolle an diesem Ort?~
+@2 = ~Leider bin ich sehr beschäftigt und ich habe keine Zeit bei Greisen ohne Interesse zu verlieren.~
+@3 = ~Ich habe gesehen, wohin Ihr Eure Augen richtet, perverser Alter. Hört sofort damit auf!~
+@4 = ~Entschuldigt mich, ich wollte Euch nicht bei Euren Forschungen stören, die spannend zu sein scheinen.~
+@5 = ~Ah, Ihr wieder, junge Person. Was wünscht Ihr?~
+@6 = ~Nochmal danke dafür, dass Ihr mir alle diese Werke gebracht habt. Ich werde mich daran erinnern!~
+@7 = ~Ah, Ihr wieder, junge Person. Haben Sie interessante Werke gefunden?~
+@8 = ~Interessiert Ihr Euch für Ork-Kochbücher?~
+@9 = ~Auf der Suche nach den verlorenen Büchern
+
+Ich brachte Thot das Ork-Kochbuch, das ich bei Lancevent gefunden hatte. Er sah sehr glücklich aus, selbst wenn mich seine Geschichte über gefüllte Elfen zweifeln lässt.~ 
+@10 = ~Dieser antike Band könnte Euch gefallen?~
+@11 = ~Auf der Suche nach den verlorenen Büchern
+
+Ich habe Thot das Buch von Kaza gebracht, und er hat ein sehr zufriedenes Aussehen gehabt, als er die Hand auf dieses Werk legte.~
+@12 = ~Wären diese Anmerkungen, die über eine wenig bekannte Rasse sprechen, fähig, Eure Neugier zu wecken?~
+@13 = ~Auf der Suche nach den verlorenen Büchern
+
+Ich gab Thot die Anmerkungen über Sahuagins und das schien ihn mit Freude zu erfüllen. Ich denke weiterhin, dass man nicht sehr klar sein muss, um sich für diese Wesen zu interessieren.~
+@14 = ~Ich weiß es nicht. Besitze ich schon ein Werk, das Euren Wünschen entspricht?~
+@15 = ~Lasst mich in Frieden!~
+@16 = ~Ich bin der ehrwürdige Thot, demütiger Priester von Oghma. Ich sammle zahlreiche Werke überall auf der Welt.~
+@17 = ~Tatsächlich? Welche Art Werke?~
+@18 = ~Ah. Ja. Das muss wirklich sehr interessant sein. Ich werde Euch verlassen, zahlreiche Aufgaben warten auf mich.~
+@19 = ~Ihr macht Euch nicht klar, was Ihr verliert! Die gegenwärtige Jugend ist wirklich sehr dekadent.~
+@20 = ~Oh! Ihr seid fast so kitzelig wie Lady Sangdelune. Aber gut, wenn Ihr dort haltet…~
+@21 = ~Euch wird verziehen. Was ist also Eure Rolle an diesen Orten?~
+@22 = ~Euch wird verziehen. Ich muss Euch verlassen, Aufgaben von großer Bedeutung warten mich.~ 
+@23 = ~Ich habe so oder so genug von all diesen Greisen ohne Interesse.~
+@24 = ~Im Grunde genommen spezialisiere ich mich auf die Suche nach den den exotischsten Manuskripten: Kochgewohnheiten wenig mitteilsamer Rassen, verfluchte Bücher, wenig bekannte Wesen beschreibende Erzählungen... Solche Art Sachen. Seht Ihr, ich kann, mit meinen bescheidenen Mächten, diejenigen belohnen, die mir solche Werke bringen können.~
+@25 = ~Warum nicht. Besitze ich schon eine Werk, das Euren Wünschen entspricht?~
+@26 = ~Alte Manuskripte holen gehen, um einige kümmerlich Mächte zu gewinnen? Nein danke, das überlasse ich den Bücherwürmern. Findet also andere Idioten, die Eure Arbeit machen.~
+@27 = ~Mein Gott! Alle der am meisten gesuchten Ork-Kochbücher von Lancevent. Da ist sogar... ja, die gefüllte Elfe, das mythische seit Jahrhunderten verlorene Rezept, dessen Geheimnis zu ergründen frühere Generationen von Weisen versucht haben. Oh, danke mein Freund!~ ~Mein Gott! Alle der am meisten gesuchten Ork-Kochbücher von Lancevent. Da ist sogar... ja, die gefüllte Elfe, das mythische seit Jahrhunderten verlorene Rezept, dessen Geheimnis zu ergründen frühere Generationen von Weisen versucht haben. Oh, danke meine Freundin!~
+@28 = ~Unwahrscheinlich! Ich weiß nicht, wo Ihr ein so bemerkenswertes Werk finden könntet, aber wisset, dass ich Euch dafür sehr lange dankbar wäre. Das ist wirklich ein kleines Wunder. Dieser Einband, diese Runen...~
+@29 = ~Schriften über Sahuagins? Die berühmten fischartigen Wesen, die den Meeresboden bewohnen! Ich habe geglaubt, dass es sich nur um Legenden handelte! Das alles ist spannend.~
+@30 = ~Nein, es scheint, dass es nichts darin gibt, was dem entspricht, was ich suche. Aber wenn Ihr jemals im Laufe Eurer Reisen einen interessanten Textes findet, zögert nicht, ihn mir zu bringen.~
+@31 = ~Das wird mir ein Vergnügen sein.~
+@32 = ~Lasst mich Euch belohnen, wie Ihr es verdient.~
+@33 = ~Ich habe Thot genügend Werke gebracht, damit er mir den Segen von Oghma gibt. Das war immerhin die Mühe wert.~
+@34 = ~Um mich bei Euch für diesen Beitrag zu meiner Sammlung zu bedanken, biete ich Euch diese Brille an, die Euch ermöglichen wird, die Art der Gegenstände besser zu erkennen, die Ihr im Laufe Eurer Reisen finden werdet.~
+@35 = ~Um mich bei Euch für diese Beiträge zu meiner Sammlung zu bedanken, biete ich Euch den Segen von Oghma an, der Euren Verstand erhöhen wird.~
+@36 = ~Ich könnte mich bei Euch niemals genug für alles bedanken, was Ihr mir gebracht habt. Lasst mich Euch segnen und Euch die Gabe von Oghma bringen, die Euch erlauben wird, durch alle Illusionen zu sehen. Ihr könnt sie immer gegen diejenigen benutzen, die die Wahrheit verschleiern wollen.~
+@37 = ~Die gefüllte Elfe. Oh, was für eine Abscheulichkeit! Ich ziehe vor, nicht daran zu denken.~
+@38 = ~Gebt diesem alten Narren bitte das Buch, für welches ich so viel Blut mit meiner Axt vergossen habe. Ihr argumentiert wirklich wie ein Schwachsinniger.~ ~Gebt diesem alten Narren bitte das Buch, für welches ich so viel Blut mit meiner Axt vergossen habe. Ihr argumentiert wirklich wie eine Schwachsinnige.~
+@39 = ~Hmm, das erinnert mich an eine Geschichte. Das war Humpfle, der Lehrling meines Onkels Golodon, der überzeugt war, dass es eine Rasse unterseeischer und bewusster Rüben gab. Natürlich hatte Humphy niemals gelernt zu schwimmen, deshalb hat sein erster Versuch, die fraglichen Wesen wiederzufinden, sehr schlecht geendet.~
+@40 = ~Dummer Humphy. Als man seinen Körper wiedergefunden hat, war er unter Wasser und hatte einen grünlichen Hautton und die Beschaffenheit einer Rübe. Alles in allem hatte er vielleicht nicht ganz Unrecht.~
